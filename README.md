@@ -1,0 +1,4 @@
+# Requirements
+
+- Luarocks
+- Ripgrep
